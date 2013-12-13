@@ -35,5 +35,4 @@ ActiveRecord::Schema.define(version: 20131213011235) do
     t.float    "pct_all_persons_living_below_200_per_poverty_level_2000"
     t.float    "infant_mortality_rate_2005_2008"
   end
-SELECT "mass_health_data".* FROM "mass_health_data" ORDER BY "mass_health_data"."id" ASC LIMIT 1
 end
