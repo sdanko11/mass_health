@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  geography: MyString
+  total_population: 1
+  age_0_19_2005: 1
+  age_65+_2005: 1
+  per_capita_income_year_2000: MyString
+
+two:
+  geography: MyString
+  total_population: 1
+  age_0_19_2005: 1
+  age_65+_2005: 1
+  per_capita_income_year_2000: MyString
